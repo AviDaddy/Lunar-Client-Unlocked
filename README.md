@@ -9,7 +9,7 @@ Lunar Client Unlocked is a lightweight, cross-platform and open sourced launcher
   
 ![Lunar Client Qt](https://i.imgur.com/owcLWNV.png)
 
-## Agents
+## Extra Information [Addons]
 One of the primary features of this launcher is the ability to easily attach Java premain agents to your game, 
 this allows you to modify the game on launch, which lets you write modifications that won't break when Lunar Client recieves an update. 
    
@@ -19,7 +19,9 @@ If you're familiar with Java bytecode, feel free to write your own!
 ## Usuage Information
 Make sure you have python installed. 
 ```
-Run lunarclientunlocked-qt.exe as adminstrator
+Download latest release from "Realeases Tab"
+
+Run "lunarclientunlocked-qt.exe" as adminstrator.
 ```
 
 **NOTE**  
